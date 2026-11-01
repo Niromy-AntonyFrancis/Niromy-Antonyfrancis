@@ -86,11 +86,9 @@
 
 ## 🏆 Achievements & Activities
 
-- 🥇 1st Place – UI/UX Design Competition, IEEE WIE UoV.
-- 🌍 University Coordinator – G17 University Ambassador Consortium Sri Lanka.
-- 🌱 Best Volunteer of the Month – ZeroPlastic University of Vavuniya.
-- 👩‍💻 UI/UX Design Intern – CodeAlpha.
-- 🤝 Active member of Mozilla Campus Club and IEEE WIE UoV.
+- 🥇 Participated UI/UX Design Competition, IEEE WIE UoV.
+- 🌱 Best Volunteer Award– ZeroPlastic University of Vavuniya.
+- 🌱 Worked as Director of Documentation at ZeroPlastic University of Vavuniya.
 
 ---
 
